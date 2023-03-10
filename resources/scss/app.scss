@@ -1,1 +1,14 @@
 @import "~bootstrap/scss/bootstrap";
+
+// .col {
+//     border: none;
+// }
+
+.card {
+    background-color: lightblue;
+    height: 250px;
+    .movieTitle {
+        font-size: 1.25rem !important;
+        font-weight: bold;
+    }
+}
